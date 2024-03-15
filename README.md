@@ -6,7 +6,7 @@
 To install, in terminal type
 
 ```
-	npm i --save ez-element-array
+	npm i --save element-arrayer
 ```
 
 then, in your project,
@@ -16,7 +16,7 @@ import ElementArrayer from 'element-arrayer'
 ```  
 or
 ```
-import {DocumentArrayer} from 'ez-element-arrayer'
+import {DocumentArrayer} from 'element-arrayer'
 ```
 **DocumentArrayer**
 
