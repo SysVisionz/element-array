@@ -1,6 +1,6 @@
 {
   "name": "element-arrayer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool that autoconverts all of those pesky elements into arrays for you.",
   "keywords": [
     "element",
