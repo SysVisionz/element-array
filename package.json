@@ -1,6 +1,6 @@
 {
   "name": "element-arrayer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool that autoconverts all of those pesky elements into arrays for you.",
   "keywords": [
     "element",
@@ -11,7 +11,7 @@
     "HTMLCollection"
   ],
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "index.d.ts",
   "type": "module",
   "scripts": {
     "build": "tsc",
